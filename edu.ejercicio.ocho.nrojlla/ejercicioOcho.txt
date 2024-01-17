@@ -1,0 +1,9 @@
+﻿Inicializar un array de string con el contenido:  "Hola", "Adiós", "Nuevo", "Viejo", "Vamos".
+Utilizando un método de la clase arrray, dime en qué posición se encuentra Adiós.
+Establece un condicional que en función de la palabra que pase un usuario por consola,
+identifique si existe o no esa palabra en el array definido inicialmente.
+
+Inicializa un array de enteros con el contenido: 1,5,7,8,4,3,9
+Utilizando la función Where sobre el array creado, guarda dentro de una variable de tipo var, 
+todos aquellos números mayores que 3.
+Después muestra por pantalla con un foreach los números guardados en la variable var. 
